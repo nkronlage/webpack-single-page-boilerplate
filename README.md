@@ -29,6 +29,8 @@ The general directory structure is:
 │   └── index.js
 ├── styles/
 │   └── index.less
+├── web_modules/
+│   └── _external .js files_
 └── webpack.config.js
 ```
 
